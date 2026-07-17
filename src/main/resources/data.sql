@@ -1,0 +1,15 @@
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Acme Corp', 720, 100000.00, 'A', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Beta Inc', 650, 50000.00, 'B', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Gamma LLC', 580, 25000.00, 'C', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Delta PLC', 700, 75000.00, 'A', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Epsilon SA', 610, 120000.00, 'B', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Zeta Ltd', 540, 30000.00, 'C', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Eta AG', 760, 200000.00, 'A', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Theta GmbH', 690, 90000.00, 'B', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Iota Co', 605, 45000.00, 'B', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Kappa Enterprises', 480, 15000.00, 'D', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Lambda Partners', 730, 110000.00, 'A', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Mu Holdings', 620, 60000.00, 'B', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Nu Capital', 555, 20000.00, 'C', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Xi Ventures', 680, 80000.00, 'B', CURRENT_TIMESTAMP());
+INSERT INTO credit_risk_record (customer_name, score, exposure, rating, updated_at) VALUES ('Omicron Group', 495, 10000.00, 'D', CURRENT_TIMESTAMP());
